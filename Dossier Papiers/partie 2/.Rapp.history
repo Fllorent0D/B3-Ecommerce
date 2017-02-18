@@ -1,0 +1,5 @@
+library(FactoMineR)
+ACP()
+ACP
+PCA
+setwd('/Users/florentcardoen/Dropbox/HEPL/Troisième/e-commerce/partie 2/')

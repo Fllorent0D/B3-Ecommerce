@@ -1,0 +1,16 @@
+library(Rserve)
+Rserve()
+getwd()
+setwd(/Users/florentcardoen/Dropbox/HEPL/Troisième/e-commerce/Serveur)
+setwd("/Users/florentcardoen/Dropbox/HEPL/Troisième/e-commerce/Serveur")
+read.table(descrcont.csv)
+read.table('descrcont.csv')
+read.table('tmp/descrcont.csv')
+data <- read.table('tmp/descrcont.csv')
+data <- read.table('tmp/descrcont.csv')$V1
+data
+summary(data)
+sd(data)
+data <- read.table('tmp/descrcont.csv')$V1
+data <- read.table('tmp/descrcont.csv')
+data

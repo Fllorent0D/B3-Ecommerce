@@ -1,0 +1,9 @@
+#Fri Nov 11 19:06:33 CET 2016
+mail.smtp.starttls.enable=true
+mail.pop3.host=pop.gmail.com
+store=pop3s
+mail.smtp.port=587
+mail.pop3.starttls.enable=true
+mail.smtp.host=smtp.gmail.com
+mail.smtp.auth=true
+mail.pop3.port=995
